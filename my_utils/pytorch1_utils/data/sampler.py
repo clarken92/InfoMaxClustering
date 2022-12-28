@@ -1,4 +1,3 @@
-import itertools
 import numpy as np
 from torch.utils.data.sampler import Sampler
 
